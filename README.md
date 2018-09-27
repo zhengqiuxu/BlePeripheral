@@ -1,3 +1,3 @@
 # BlePeripheral
-android系统的BLE从模式的demo
-CSDN地址：https://blog.csdn.net/a287574014/article/details/80843584
+android绯荤粺ble鐨勪粠妯″紡demo
+CSDN鍗氬鍦板潃锛歨ttps://blog.csdn.net/a287574014/article/details/80843584
